@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+  background-color: #636363;
+  font-family: Helvetica Neue, Helvetica;
+  color: white; }
+
+.content {
+    margin: 25px 0 0 0;
+    padding-left: 16px; }
+
+table, th, tr, td {
+    text-align:  center;
+    vertical-align: top;
+    border: 0px solid black;
+    border-collapse: collapse; }
+
+ body .content h1 {
+      font-weight: normal;
+      padding: 45px 100px 0;
+      margin: 0px;
+      font-size: 110px; }
+    
+p { 
+      font-size: 14px;
+      border: 0px solid black;
+}
